@@ -9,7 +9,7 @@ Develop a predictive model to predict customer churn using demographic and trans
 The dataset includes customer information such as age, gender, marital status, occupation, monthly income, meal preferences, and customer satisfaction indicators.
 
 ## Key Steps:
-Data Preprocessing: Cleaned the dataset by removing unnecessary features and selecting relevant columns.
-Feature Engineering: Created new features, including average order value and a high-frequency customer flag.
-Data Transformation: Applied one-hot encoding to categorical variables and handled missing data.
-Modeling: Plan to use machine learning algorithms (logistic regression, decision trees, random forests) to predict churn.
+1. Data Preprocessing: Cleaned the dataset by removing unnecessary features and selecting relevant columns.
+2. Feature Engineering: Created new features, including average order value and a high-frequency customer flag.
+3. Data Transformation: Applied one-hot encoding to categorical variables and handled missing data.
+4. Modeling: Plan to use machine learning algorithms (logistic regression, decision trees, random forests) to predict churn.
